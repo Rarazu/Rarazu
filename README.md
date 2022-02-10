@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rara</h1>
-<h3 align="center">Hello, Welcome to My GitHub!! I am a junior programmer who is studying at Telkom Vocational High School in Malang, Indonesia. I'm very excited to try and learn new things. Nice to see you</h3>
+<h3 align="center">Hello, Welcome to My GitHub!! I am a junior programmer who is studying at Telkom Vocational High School in Malang, Indonesia. I'm very excited to try and learn new things. Nice to see you.</h3>
 
 - 🔭 I’m currently studying on **SMK Telkom Malang**
 
