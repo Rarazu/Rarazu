@@ -7,9 +7,7 @@
 
 - 📫 How to reach me **zahraurava@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/zahraurava" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zahraurava" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -18,3 +16,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rarazu&show_icons=true&locale=en&layout=compact" alt="rarazu" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rarazu&show_icons=true&locale=en" alt="rarazu" /></p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/zahraurava" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zahraurava" height="30" width="40" /></a>
