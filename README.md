@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rara</h1>
-<h3 align="center">Haloo I'am Rara Zahra Urava, I am a beginner programmer who is studying at SMK Telkom Malang, Indonesia. I'm very excited to try and learn new things.</h3>
+<h3 align="center">Haloo I'am Rara Zahra Urava, I am a junior programmer who is studying at SMK Telkom Malang, Indonesia. I'm very excited to try and learn new things.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rarazu&label=Profile%20views&color=0e75b6&style=flat" alt="rarazu" /> </p>
 
