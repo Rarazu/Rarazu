@@ -47,10 +47,11 @@
 </div>
 
 </br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rarazu&layout=compact&theme=vue-dark)](https://github.com/Rarazu)
                                                                                                              
 ![Rara's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rarazu&theme=vue-dark&show_icons=true)
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rarazu&layout=compact&theme=vue-dark)](https://github.com/Rarazu)
+ 
  
 <h3 align="left">Here is my UKL (Level Up Exam) :</h3> 
 
