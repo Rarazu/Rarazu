@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
 
-<h1 align="center">Hi 👋, I'm Rara</h1>
-<h3 align="center">Who is very excited to try and learn new things.</h3>
+<h1 align="left">Hi 👋, I'm Rara</h1>
+<h3 align="left">Who is very excited to try and learn new things.</h3>
 
 - 🔭 I’m currently studying on **SMK Telkom Malang**
 
