@@ -41,7 +41,7 @@
     <a href="https://instagram.com/zahraurava" target="blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
     </a>
-      <a href="zahraurava@gmail.com">
+      <a href="zahraurava@gmail.com" target="blank">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
     </a>  
       <a href="https://github.com/Rarazu">
