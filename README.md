@@ -26,11 +26,11 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS?retiredLocale=id">
         <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
     </a>
-</div>
-<div>
-   <a href="https://www.javascript.com/">
+    <a href="https://www.javascript.com/">
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
     </a>
+</div>
+<div>
     <a href="https://www.mysql.com/">
         <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
     </a>
@@ -39,6 +39,9 @@
     </a>
     <a href="https://nodejs.org/en/">
         <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+    </a>
+    <a href="https://reactjs.org/">
+        <img src = "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
     </a>
 </div>
 </br>
