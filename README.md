@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently studying on **SMK Telkom Malang**
 
-- 🌱 I’m currently learning **Framework React.js**
+- 🌱 I’m currently learning **Javascript**
 
 - 📫 How to reach me **zahraurava@gmail.com**
 
