@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Javascript**
 
-- 📫 How to reach me **zahraurava@gmail.com**
+- 📫 How to reach me **razauva1135@gmail.com**
 
 
 </p>
