@@ -3,9 +3,9 @@
 <h1 align="left">Hi 👋, I'm Rara</h1>
 <h3 align="left">Who is very excited to try and learn new things.</h3>
 
-- 🔭 I’m currently studying on **SMK Telkom Malang**
+- 🔭 I’m currently working on **PT Bringin Inti Teknologi**
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **PHP Laravel**
 
 - 📫 How to reach me **razauva1135@gmail.com**
 
